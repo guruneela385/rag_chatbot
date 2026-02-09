@@ -1,0 +1,5 @@
+LangChain is a framework designed to simplify building applications using large language models.
+Retrieval Augmented Generation improves accuracy by combining retrieval with text generation.
+FAISS is a vector database library for efficient similarity search.
+Transformers use attention mechanisms to process language.
+Sentence embeddings represent semantic meaning in vector space.
